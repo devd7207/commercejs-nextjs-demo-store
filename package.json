@@ -15,6 +15,7 @@
     "@chec/commerce.js": "^2.8.0",
     "@stripe/react-stripe-js": "^1.4.1",
     "@stripe/stripe-js": "^1.13.0",
+    "analytics-node": "^6.0.0",
     "body-scroll-lock": "^2.6.4",
     "dotenv": "^8.2.0",
     "jwt-decode": "^3.1.2",
